@@ -1,5 +1,5 @@
-Title A78.asm
-;PART 1: Program that finds the prime numbers
+Title A7.asm
+;Program that finds the prime numbers
 ; between a range of numbers of 2 to 1000
 ;
 ;Aisha Qureshi
