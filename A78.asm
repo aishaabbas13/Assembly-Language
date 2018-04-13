@@ -1,4 +1,4 @@
-Title A7.asm
+Title A78.asm
 ;Program that finds the prime numbers
 ; between a range of numbers of 2 to 1000
 ;
